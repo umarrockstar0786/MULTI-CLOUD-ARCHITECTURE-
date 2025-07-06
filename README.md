@@ -69,16 +69,4 @@ Architecture Diagram: visual representation with annotations.
 ReadMe: clear descriptions of each component, deployment scripts, instructions.
 
 Demo Walk-through: code, IaC modules, deployment scripts, failover demonstration notes.
-"OUTPUT": ## Architecture Overview
-
-![Cross‑Cloud VPN: Azure ↔ AWS](/docs/arch1.png)
-*Figure 1: Azure–AWS VPN connectivity with VNet ↔ VPC gateways.*
-
-![Centralized Virtual Router Multicloud](/docs/arch2.png)
-*Figure 2: Abstracted networking across AWS, Azure & GCP using virtual routers.*
-
-![Patterned Multi‑Cloud Architectures](/docs/arch3.png)
-*Figure 3: Common deployment patterns (hybrid, partitioned, analytics).*
-
-![Cloud Topology Patterns Comparison](/docs/arch4.png)
-*Figure 4: Network topology demos – AWS–GCP vs. AWS–Azure setups.*
+"OUTPUT": <img width="1084" height="458" alt="Image" src="https://github.com/user-attachments/assets/963fd9a0-38e9-4e7e-b8a1-5f8b92165072" />
